@@ -71,19 +71,19 @@ images = [
     ['k8s.gcr.io/'],
   ],
   [
-    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'kube-controller-manager', 'v1.14.6'],
+    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'kube-controller-manager', 'v1.15.4'],
     ['k8s.gcr.io/'],
   ],
   [
-    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'kube-scheduler', 'v1.14.6'],
+    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'kube-scheduler', 'v1.15.4'],
     ['k8s.gcr.io/'],
   ],
   [
-    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'kube-proxy', 'v1.14.6'],
+    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'kube-proxy', 'v1.15.4'],
     ['k8s.gcr.io/'],
   ],
   [
-    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'kube-apiserver', 'v1.14.6'],
+    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'kube-apiserver', 'v1.15.4'],
     ['k8s.gcr.io/'],
   ],
   [
