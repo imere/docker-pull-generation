@@ -71,19 +71,19 @@ images = [
     ['k8s.gcr.io/'],
   ],
   [
-    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'kube-controller-manager', 'v1.15.4'],
+    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'kube-controller-manager', 'v1.15.5'],
     ['k8s.gcr.io/'],
   ],
   [
-    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'kube-scheduler', 'v1.15.4'],
+    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'kube-scheduler', 'v1.15.5'],
     ['k8s.gcr.io/'],
   ],
   [
-    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'kube-proxy', 'v1.15.4'],
+    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'kube-proxy', 'v1.15.5'],
     ['k8s.gcr.io/'],
   ],
   [
-    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'kube-apiserver', 'v1.15.4'],
+    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'kube-apiserver', 'v1.15.5'],
     ['k8s.gcr.io/'],
   ],
   [
@@ -97,10 +97,6 @@ images = [
   [
     ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'kubernetes-dashboard-amd64', 'v1.10.1'],
     ['k8s.gcr.io/'],
-  ],
-  [
-    ['registry.cn-hangzhou.aliyuncs.com/coreos_containers/', 'hyperkube', 'v1.7.6_coreos.0'],
-    ['quay.io/coreos/'],
   ],
   [
     ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'nginx-ingress-controller', '0.25.1'],
