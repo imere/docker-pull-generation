@@ -71,27 +71,27 @@ images = [
     ['k8s.gcr.io/'],
   ],
   [
-    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'kube-controller-manager', 'v1.15.5'],
+    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'kube-controller-manager', 'v1.16.5'],
     ['k8s.gcr.io/'],
   ],
   [
-    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'kube-scheduler', 'v1.15.5'],
+    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'kube-scheduler', 'v1.16.5'],
     ['k8s.gcr.io/'],
   ],
   [
-    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'kube-proxy', 'v1.15.5'],
+    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'kube-proxy', 'v1.16.5'],
     ['k8s.gcr.io/'],
   ],
   [
-    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'kube-apiserver', 'v1.15.5'],
+    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'kube-apiserver', 'v1.16.5'],
     ['k8s.gcr.io/'],
   ],
   [
-    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'etcd', '3.3.10'],
+    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'etcd', '3.3.15-0'],
     ['k8s.gcr.io/'],
   ],
   [
-    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'coredns', '1.3.1'],
+    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'coredns', '1.6.2'],
     ['k8s.gcr.io/'],
   ],
   [
@@ -99,7 +99,7 @@ images = [
     ['k8s.gcr.io/'],
   ],
   [
-    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'nginx-ingress-controller', '0.25.1'],
+    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'nginx-ingress-controller', '0.26.1'],
     ['quay.io/kubernetes-ingress-controller/'],
   ],
 ];
