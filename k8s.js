@@ -1,30 +1,30 @@
 let images = [
   [
-    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'pause', '3.1'],
+    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'pause', '3.2'],
     ['k8s.gcr.io/'],
   ],
   [
-    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'kube-controller-manager', 'v1.16.5'],
+    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'kube-controller-manager', 'v1.18.3'],
     ['k8s.gcr.io/'],
   ],
   [
-    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'kube-scheduler', 'v1.16.5'],
+    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'kube-scheduler', 'v1.18.3'],
     ['k8s.gcr.io/'],
   ],
   [
-    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'kube-proxy', 'v1.16.5'],
+    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'kube-proxy', 'v1.18.3'],
     ['k8s.gcr.io/'],
   ],
   [
-    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'kube-apiserver', 'v1.16.5'],
+    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'kube-apiserver', 'v1.18.3'],
     ['k8s.gcr.io/'],
   ],
   [
-    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'etcd', '3.3.15-0'],
+    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'etcd', '3.4.3-0'],
     ['k8s.gcr.io/'],
   ],
   [
-    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'coredns', '1.6.2'],
+    ['registry.cn-hangzhou.aliyuncs.com/google_containers/', 'coredns', '1.6.7'],
     ['k8s.gcr.io/'],
   ],
   [
